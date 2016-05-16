@@ -1,0 +1,6 @@
+{
+	"uuid": "panel_size@sassmann",
+	"name": "Panel Size",
+	"description": "Change the size of the Gnome top panel",
+	"shell-version": ["3.18", "3.20"]
+}
